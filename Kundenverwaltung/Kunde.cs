@@ -22,6 +22,7 @@ namespace Kundenverwaltung
         private string _mailadresse;
         private DateTime _geburtsdatum;
         private List<Kunde> _kunde;
+        private List<Adresse>_adressen;
         #endregion
 
         #region Eigenschaften
